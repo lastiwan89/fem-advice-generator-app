@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Github Code](https://github.com/lastiwan89/fem-advice-generator-app)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://lastiwan89.github.io/fem-advice-generator-app/)
 
 ## My process
 
